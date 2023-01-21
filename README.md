@@ -10,3 +10,5 @@ git push
 kora sar kaysudanba:
 
 git pull
+
+little_7o7
